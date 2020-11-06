@@ -58,7 +58,7 @@ Final project: A GPS mobile navigation system using J2ME was developed with a de
 ### Arab Academy for Science, Technology and Maritime Transport, Alexandria, Egypt (ISO 9001)
 ▪ Grade: Excellent with honor
 Final project (Grade: A): Virtual Eye, a tool for helping blind people to recognize objects around them. I was responsible for the software part including image processing and optical character recognition using C++.
-## PERSONAL SKILLS
+## Header 2 PERSONAL SKILLS
 ### Fluent languages: 
 English, German and Arabic (Egyptian)
 ### Intermediate languages:
