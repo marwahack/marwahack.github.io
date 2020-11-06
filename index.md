@@ -62,9 +62,9 @@ Final project (Grade: A): Virtual Eye, a tool for helping blind people to recogn
 ### Fluent languages: 
 English, German and Arabic (Egyptian)
 ### Intermediate languages:
-Spanish (actively in Progress)
+Spanish (actively in progress)
 ## Other skills
-• **Teamwork:** I worked in various types of teams in Germany, Austria and Egypt. Moreover, I took part in a workshop for motivation held by ‘Youth in action’ in Slovakia and was soccer team player.
+> **Teamwork:** I worked in various types of teams in Germany, Austria and Egypt. Moreover, I took part in a workshop for motivation held by ‘Youth in action’ in Slovakia and was soccer team player.
 • **Excellent analysis and project planning:** I participated in the project planning and requirements engineering of different projects and during my work in Trajet GmbH, I also couched my colleagues about project planning and UML using Visual Paradigm.
 • **Business management and organization was my minor in my master studies.**
 • **Open to new programming languages and IDEs and able to grasp and process new skills and ideas quickly**
