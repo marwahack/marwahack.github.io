@@ -7,11 +7,11 @@ Technical environment: C#, Swagger and Tosca
 ##### Sep 14 – Jan 18
 #### Quality Assurance Engineer
 #### SeppMed GmbH, Röttenbach, Germany  
-*Contracted in **Siemens AG Mobility**, Braunschweig, Germany  
+_Contracted in **Siemens AG Mobility**, Braunschweig, Germany_  
 Linking between the developers and the integration testers in an agile development environment  
 System and requirements analysis  
 Technical environment: Java, Wildfly and IBM Rational Team Concert     
-*Contracted in **VW AG**, Wolfsburg, Germany   
+_Contracted in **VW AG**, Wolfsburg, Germany_   
 Design and analysis of the tests and the automation of the tests  
 Management of running the automated tests  
 Automotive branch online services  
