@@ -7,11 +7,11 @@
 ##### Sep 14 – Jan 18
 #### Quality Assurance Engineer
 #### SeppMed GmbH, Röttenbach, Germany
-Contracted in **Siemens AG Mobility**, Braunschweig, Germany
+* Contracted in **Siemens AG Mobility**, Braunschweig, Germany
 * Linking between the developers and the integration testers in an agile development environment
 * System and requirements analysis
 * Technical environment: Java, Wildfly and IBM Rational Team Concert
-Contracted in **VW AG**, Wolfsburg, Germany
+* Contracted in **VW AG**, Wolfsburg, Germany
 * Design and analysis of the tests and the automation of the tests
 * Management of running the automated tests
 * Automotive branch online services
@@ -19,8 +19,8 @@ Contracted in **VW AG**, Wolfsburg, Germany
 ##### Oct 11 – Aug 14
 #### Software Developer
 #### Trajet GmbH, Braunschweig, Germany
-• Developed portals using Ruby on Rails, ember.js and RIAK No-SQL database and desktop applications using C#.Net, to control the mobile security cameras and to display the different streams as videos, acceleration and GPS data
-• Took actively part in the project planning for different projects using “Visual Paradigm” for UML and “Merlin” for Gantt charts
+* Developed portals using Ruby on Rails, ember.js and RIAK No-SQL database and desktop applications using C#.Net, to control the mobile security cameras and to display the different streams as videos, acceleration and GPS data
+* Took actively part in the project planning for different projects using “Visual Paradigm” for UML and “Merlin” for Gantt charts
 “Jenkins” for monitoring our projects and a long-term hardware testing environment were introduced by me for enhancing the work process and end-product quality
 ##### Jul 10 – Aug 11
 #### Software developer trainee & Master’s project
@@ -34,7 +34,7 @@ Using Ranorex automation software and working under C#.Net 2008 environment, I w
 #### Software Engineer
 #### Globe Soft, Cairo, Egypt (Microsoft Gold Certified Partner and EMC Partner)
 I participated in projects like Army judgment portal, Mobinil\Orange Egypt RCE system, Kahramaa Qatar Ultimus system and Noor Islamic Bank (NIB) portal in Dubai.
-Technical environment: C#.Net, MSSQL und EMC products e.g. Documenta
+* Technical environment: C#.Net, MSSQL und EMC products e.g. Documenta
 ### EDUCATION
 ##### Oct 2008 – Sep 2011
 #### Information Engineering Master
@@ -43,18 +43,18 @@ Technical environment: C#.Net, MSSQL und EMC products e.g. Documenta
   * General Management and Organization
   * Computer Graphics and Computer Vision
 * First part of the master was at the **technical university of Graz, Austria** and Master Project and Thesis in Konstanz University in **Cooperation with EADS GmbH Germany**.
-Final project: City Extractor was a procedural city generation program using L-systems and based on geographical data with real-world coordinates. Basically OSG (Open Scene Graph) and GDAL libraries were used for the development.
+* Final project: City Extractor was a procedural city generation program using L-systems and based on geographical data with real-world coordinates. Basically OSG (Open Scene Graph) and GDAL libraries were used for the development.
 ##### Sep 2005 – Jul 2006
 #### E-Commerce Practical Diplom (Ministry of Communications and Information Technology Scholarship)
 #### Information Technology Institute, Alexandria, Egypt (ISO 9001)
 * Main fields of study: E-Commerce, Web Development and Design
 * Overall and final project grade: A
-Final project: A GPS mobile navigation system using J2ME was developed with a desktop administration tool to manage the database data entry of maps and related information using Java. A web service was also developed to connect the mobile application with our database.
+* Final project: A GPS mobile navigation system using J2ME was developed with a desktop administration tool to manage the database data entry of maps and related information using Java. A web service was also developed to connect the mobile application with our database.
 ##### Sep 2000 – Jun 2005
 #### Computer Engineering Bachelor
 #### Arab Academy for Science, Technology and Maritime Transport, Alexandria, Egypt (ISO 9001)
 * Grade: Excellent with honor
-Final project (Grade: A): Virtual Eye, a tool for helping blind people to recognize objects around them. I was responsible for the software part including image processing and optical character recognition using C++.
+* Final project (Grade: A): Virtual Eye, a tool for helping blind people to recognize objects around them. I was responsible for the software part including image processing and optical character recognition using C++.
 ### PERSONAL SKILLS
 #### Fluent languages: 
 English, German and Arabic (Egyptian)
