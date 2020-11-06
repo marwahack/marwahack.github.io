@@ -63,11 +63,11 @@ Final project (Grade: A): Virtual Eye, a tool for helping blind people to recogn
 English, German and Arabic (Egyptian)
 #### Intermediate languages:
 Spanish (actively in progress)
-### Other skills
+### OTHER SKILLS
 * **Teamwork:** I worked in various types of teams in Germany, Austria and Egypt. Moreover, I took part in a workshop for motivation held by ‘Youth in action’ in Slovakia and was soccer team player.
 * **Excellent analysis and project planning:** I participated in the project planning and requirements engineering of different projects and during my work in Trajet GmbH, I also couched my colleagues about project planning and UML using Visual Paradigm.
 * **Business management and organization was my minor in my master studies.**
 * **Open to new programming languages and IDEs and able to grasp and process new skills and ideas quickly**
 * **Scrum Master, Cloud U, ISTQP Foundation Level and Tricentis Automation Specialist Level 1 & 2 certified**
-### More about me
+### MORE ABOUT ME
 Love sports, dancing and I draw every now and then, and now hobby time is shared with my children.
