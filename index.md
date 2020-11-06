@@ -4,6 +4,7 @@
 #### Commerz Systems / Commerzbank AG, Frankfurt am Main, Germany
 * Automation of the testing and debugging of the API and online portal with focus on the security systems
 * Technical environment: C#, Swagger and Tosca  \
+--
 ##### Sep 14 – Jan 18
 #### Quality Assurance Engineer
 #### SeppMed GmbH, Röttenbach, Germany
@@ -16,6 +17,7 @@ Contracted in **VW AG**, Wolfsburg, Germany
 * Management of running the automated tests
 * Automotive branch online services
 * Technical environment: Visual Studio 2015, HP ALM and HP UFT  
+--
 ##### Oct 11 – Aug 14
 #### Software Developer
 #### Trajet GmbH, Braunschweig, Germany
