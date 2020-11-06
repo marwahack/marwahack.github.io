@@ -2,26 +2,20 @@
 ##### Feb 18 – Dec 18
 #### Professional Software Engineer
 #### Commerz Systems / Commerzbank AG, Frankfurt am Main, Germany
---
-* Automation of the testing and debugging of the API and online portal with focus on the security systems
-* Technical environment: C#, Swagger and Tosca  \
---
+Automation of the testing and debugging of the API and online portal with focus on the security systems  
+Technical environment: C#, Swagger and Tosca  
 ##### Sep 14 – Jan 18
 #### Quality Assurance Engineer
-#### SeppMed GmbH, Röttenbach, Germany
+#### SeppMed GmbH, Röttenbach, Germany  
 Contracted in **Siemens AG Mobility**, Braunschweig, Germany  
---
 * Linking between the developers and the integration testers in an agile development environment
 * System and requirements analysis
-* Technical environment: Java, Wildfly and IBM Rational Team Concert 
---
+* Technical environment: Java, Wildfly and IBM Rational Team Concert   
 Contracted in **VW AG**, Wolfsburg, Germany  
---
 * Design and analysis of the tests and the automation of the tests
 * Management of running the automated tests
 * Automotive branch online services
-* Technical environment: Visual Studio 2015, HP ALM and HP UFT  
---
+* Technical environment: Visual Studio 2015, HP ALM and HP UFT    
 ##### Oct 11 – Aug 14
 #### Software Developer
 #### Trajet GmbH, Braunschweig, Germany
