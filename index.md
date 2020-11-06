@@ -1,6 +1,3 @@
-## Marwa Hack Profile
-
-# Senior Software Engineer
 ### WORK EXPERIENCE
 ##### Feb 18 – Dec 18
 #### Professional Software Engineer
